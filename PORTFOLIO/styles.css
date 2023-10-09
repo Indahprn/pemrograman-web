@@ -1,0 +1,92 @@
+body {
+    background:linear-gradient(#006eff, #8f9ceb, #a8c0e4);
+}
+.profile {
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.Profileimage {
+    width: 200px;
+}
+
+.profile h2 {
+    color: bisque;
+}
+.profile h4 {
+    color: bisque;
+    transform: translateY(-10);
+}
+.biodata {
+    background:linear-gradient(#ffffffe8, #8f9ceb, #a8c0e4);
+    padding-bottom: 300px;
+}
+.footer {body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #ffcccb;
+}
+
+h1 {
+    font-size: 36px;
+    color: #ff6b6b;
+}
+
+p {
+    font-size: 18px;
+    color: #ff6b6b;
+}
+
+.projects {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.project {
+    background-color: #ffd700;
+    border: 2px solid #ff6b6b;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.project img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.project h2 {
+    font-size: 24px;
+    color: #ff6b6b;
+}
+
+.project p {
+    font-size: 16px;
+    color: #ff6b6b;
+}
+
+footer {
+    text-align: center;
+    background-color: #ffcccb;
+    padding: 20px 0;
+}
+
+.heart {
+    color: #ff6b6b;
+}
+
+    background-color: #fff;
+}
